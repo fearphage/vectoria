@@ -19,7 +19,7 @@ setup(
     license='BSD 3-Clause License',
     packages=find_packages(),
     install_requires=[
-        'requests>=2.13.0'
+        'requests>=2.13.0',
         'keras>=2.0.8',
         'tensorflow>=1.3.0',
         'numpy>=1.13.1',
